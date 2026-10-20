@@ -13,7 +13,7 @@
 
 import streamlit as st
 import pandas as pd
-import plotly.express as px   # (express -> permite plotar diferentes tipos de gráficos)
+import plotly.express as px   
 
 # Cadastra a base de ventas
 
